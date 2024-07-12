@@ -6,5 +6,5 @@ I found the db development and advanced interesting to brush up the database dev
 
 The below projects are completely independent and unguided with clear requirements:
 
-1. https://www.freecodecamp.org/learn/relational-database/build-a-celestial-bodies-database-project/build-a-celestial-bodies-database - refere universe.sql
+1. https://www.freecodecamp.org/learn/relational-database/build-a-celestial-bodies-database-project/build-a-celestial-bodies-database - refer universe.sql
 
