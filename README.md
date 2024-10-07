@@ -2,7 +2,7 @@ The database development and advanced shell scripting is part of the below curri
 
 https://www.freecodecamp.org/learn/relational-database/
 
-I found the db development and advanced interesting to brush up the database development work.
+I found the db development and advanced Shell scripting to brush up the database development work.
 
 The below projects are completely independent and unguided with clear requirements:
 
